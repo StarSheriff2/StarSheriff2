@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 &nbsp; <img src="images/sheriff_star.jpeg" alt="sheriff star" width="30">
 
 I'm Arturo. I hold a degree in Business Management and a degree in Leadership and New Ventures from **[MIT Bootcamps](https://bootcamps.mit.edu/)**
 
