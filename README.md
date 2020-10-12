@@ -1,4 +1,6 @@
-### Hi there 👋 &nbsp; <img src="images/sheriff_star.jpeg" alt="sheriff star" width="30">
+### Hi there 👋
+
+
 
 I'm Arturo. I hold a degree in Business Management and a degree in Leadership and New Ventures from **[MIT Bootcamps](https://bootcamps.mit.edu/)**
 
@@ -11,3 +13,20 @@ I am currently a student in Microverse and want to become a remote, full-stalk w
 - ⚡ Fun fact: I can dance Salsa
 
 I’m currently exploring new opportunities.
+
+Most Used Languages <details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarSheriff2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+<br>
+
+[![Arturo's github stats](https://github-readme-stats.vercel.app/api?username=StarSheriff2&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+<p align="center"> 
+  You are visitor number: <br>
+  <img src="https://profile-counter.glitch.me/StarSheriff2/count.svg" />
+</p>
+
+###### Credits: [GH Stats Design by anuraghazra](https://github.com/anuraghazra) & [Visitor counter by sagar-viradiya](https://github.com/sagar-viradiya)
