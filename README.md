@@ -20,7 +20,7 @@ Most Used Languages <details>
 
 <br>
 
-	[![Arturo's github stats](https://github-readme-stats.vercel.app/api?username=StarSheriff2&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Arturo's github stats](https://github-readme-stats.vercel.app/api?username=StarSheriff2&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
