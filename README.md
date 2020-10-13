@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-(___)
+
 
 <div align="center">I'm Arturo. I hold a degree in Business Management and a degree in Leadership and New Ventures from <strong><a href="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>
 
