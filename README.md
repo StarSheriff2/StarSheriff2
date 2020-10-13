@@ -2,7 +2,7 @@
 
 
 
-<div align="center">I'm Arturo. I hold a degree in Business Management and a degree in Leadership and New Ventures from <strong><a src="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>
+<div align="center">I'm <span style="color:blue">Arturo</span>. I hold a degree in Business Management and a degree in Leadership and New Ventures from <strong><a href="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>
 
 I love to build stuff, use creativity to solve problems and tech entrepreneurship. I started an online eCommerce venture to connect local small-holder coffee producers with consumers in 2015 (the site is no longer live).
 
