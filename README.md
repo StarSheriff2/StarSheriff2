@@ -9,14 +9,8 @@ I love to build stuff, use creativity to solve problems and tech entrepreneurshi
 I am currently a student in Microverse and want to become a remote, full-stalk web developer.</div>
 
 - 🔭 I have completed some projects already, which you can see in my repo page [here](https://github.com/StarSheriff2?tab=repositories).
-- 🌱 Currently learning:
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-  <li>Git workflows</li>
- </ul>
-- ⚡ Fun fact: I can dance Salsa
+- 🌱 I’m currently learning HTML, CSS, Javascript, Git workflows, and expect to become fluent in Ruby and Rails too
+- ⚡ Fun fact: I can dance Salsa :dancer:
 
 I’m currently exploring new opportunities.
 
