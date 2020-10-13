@@ -29,7 +29,7 @@ Most Used Languages <details>
   <img src="https://profile-counter.glitch.me/StarSheriff2/count.svg" />
 </p>
 
-Let's connect and chat:
-<i class="ri-twitter-fill"></i>
+<div align="center">Let's connect and chat:<br>
+<img src="images/twitter-fill.png">&nbsp;<img src="images/linkedin-box-fill.png">&nbsp;<img src="images/mail-fill.png"></div>
 
 ###### Credits: [GH Stats Design by anuraghazra](https://github.com/anuraghazra) & [Visitor counter by sagar-viradiya](https://github.com/sagar-viradiya)
