@@ -16,11 +16,10 @@
 
 I’m currently exploring new opportunities.
 
-<details><summary>Most Used Languages</summary>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarSheriff2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</details>
-
 <br>
 
 [![Arturo's github stats](https://github-readme-stats.vercel.app/api?username=StarSheriff2&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarSheriff2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
