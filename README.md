@@ -2,6 +2,8 @@
 
 <h1 align="center">Welcome to my GitHub page</h1>
 
+![banner](./images/Welcome.mp4)
+
 <div align="center">
   I'm Arturo. Besides my coding abilities, I hold a degree in Business Management and a degree in Leadership and New Ventures from <strong><a           href="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>
 
