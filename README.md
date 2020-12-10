@@ -12,7 +12,7 @@
    I am currently a student at <a href="https://www.microverse.org/"><strong>Microverse</strong></a> and want to become a <em>remote, full-stack web developer</em>.</div>
 
 - 🔭 You can find more of my completed projects on my [repo page](https://github.com/StarSheriff2?tab=repositories).
-- 🌱 I’m currently learning HTML, CSS, Javascript, Git work-flows, and expect to become fluent in Ruby and Rails too
+- 🌱 I am fluent in HTML and CSS, and I'm currently learning Javascript, Ruby and Rails.
 - ⚡ Fun fact: I can dance Salsa
 
 I’m currently exploring new opportunities.
