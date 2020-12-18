@@ -5,17 +5,17 @@
 <h1 align="center">Welcome to my GitHub page</h1>
 
 <div align="center">
-  I am Arturo. Besides my coding abilities, I hold a degree in Business Management and a degree in Leadership and New Ventures from <strong><a           href="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>.
+  I am Arturo, and I love coding! I am currently on my way to becoming a <em>full-stack web developer ninja</em>! I also hold a degree in Business Management and a degree in Leadership and New Ventures from <strong><a href="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>.
 
-  I love to build stuff, use creativity to solve problems, and tech entrepreneurship. I started an online eCommerce venture to connect local small-holder coffee producers with consumers in 2015 (the site is no longer live).
+  I enjoy using my creativity to solve problems and I'm passionate about entrepreneurship. I started an online eCommerce startup to connect local small-holder coffee producers with consumers in 2015.
 
-   I am currently a student at <a href="https://www.microverse.org/"><strong>Microverse</strong></a> and want to become a <em>remote, full-stack web developer</em>.</div>
+   I am currently a full-time student at <a href="https://www.microverse.org/"><strong>Microverse</strong></a>, going through the Ruby on Rails course at the moment. I expect to graduate in April or May next year.</div>
 
 - 🔭 You can find more of my completed projects on my [repo page](https://github.com/StarSheriff2?tab=repositories).
 - 🌱 I am fluent in HTML and CSS, and I'm currently learning Javascript, Ruby and Rails.
 - ⚡ Fun fact: I can dance Salsa
 
-I’m currently exploring new opportunities.
+I’m open to new opportunities.
 
 <br>
 
