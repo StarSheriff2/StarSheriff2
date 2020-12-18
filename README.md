@@ -8,7 +8,7 @@
 
   I enjoy using my creativity to solve problems and I'm passionate about entrepreneurship. I started an online eCommerce startup to connect local small-holder coffee producers with consumers in 2015.
 
-   I am currently a full-time student at <a href="https://www.microverse.org/"><strong>Microverse</strong></a>, going through the Ruby on Rails course at the moment. I expect to graduate in April or May 2020.
+   I am currently a full-time student at <a href="https://www.microverse.org/"><strong>Microverse</strong></a>, going through the Ruby on Rails course at the moment. I expect to graduate in April or May 2021.
 
 - 🔭 You can find more of my completed projects on my [repo page](https://github.com/StarSheriff2?tab=repositories).
 - 🌱 I am fluent in HTML and CSS, and I'm currently learning Javascript, Ruby and Rails.
