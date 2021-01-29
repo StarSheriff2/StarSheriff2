@@ -29,6 +29,6 @@ I’m open to new opportunities.
 </p>
 
 <div align="center">Let's connect and chat:<br>
-  <a href="https://twitter.com/Turo_83"><img src="images/twitter-fill.png"></a>&nbsp;<a href="https://www.linkedin.com/in/arturoalvarezveroy/"><img src="images/linkedin-box-fill.png"></a>&nbsp;<a href="mailto:<nowiki>arturo.coder2020@gmail.com?subject="Hi"><img src="images/mail-fill.png"></a></div>
+  <a href="https://twitter.com/Turo_83"><img src="images/twitter-fill.png"></a>&nbsp;<a href="https://www.linkedin.com/in/arturoalvarezv/"><img src="images/linkedin-box-fill.png"></a>&nbsp;<a href="mailto:<nowiki>arturo.coder2020@gmail.com?subject="Hi"><img src="images/mail-fill.png"></a></div>
 
 ###### Credits: [GH Stats Design by anuraghazra](https://github.com/anuraghazra) & [Visitor counter by sagar-viradiya](https://github.com/sagar-viradiya)
