@@ -4,6 +4,8 @@
 
 <h1 align="center">Welcome to my GitHub page</h1>
 
+### <div><p align="center"><a href="https://starsheriff2.github.io/Portfolio/">Check my Portfolio page</a></p></div>
+
   I am Arturo, and I love coding! I am currently on my way to becoming a ***full-stack web developer ninja***! I also hold a degree in Business Management and a degree in Leadership and New Ventures from <strong><a href="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>.
 
   I enjoy using my creativity to solve problems and I'm passionate about entrepreneurship. I started an online eCommerce startup to connect local small-holder coffee producers with consumers in 2015.
