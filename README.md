@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![banner](./images/Welcome.gif)
+<div align="center"><img src="./images/Welcome.gif"></div>
 
 <h1 align="center">Welcome to my GitHub page</h1>
 
