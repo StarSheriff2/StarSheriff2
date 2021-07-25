@@ -6,18 +6,17 @@
 
 ### <div><p align="center"><a href="https://starsheriff2.github.io/Portfolio/">Check my Portfolio page</a></p></div>
 
-  I am Arturo, and I love coding! I am currently on my way to becoming a ***full-stack web developer ninja***! I also hold a degree in Business Management and a degree in Leadership and New Ventures from <strong><a href="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>.
+ I am Arturo, and I love coding! I am currently on my way to becoming a ***full-stack web developer ninja***! I also hold a degree in Business Management and a degree in Leadership and New Ventures from <strong><a href="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>.
 
-  I enjoy using my creativity to solve problems and I'm passionate about entrepreneurship. I started an online eCommerce startup to connect local small-holder coffee producers with consumers in 2015.
+  I enjoy using my creativity to solve problems and am passionate about entrepreneurship. I started an online eCommerce startup to connect local small-holder coffee producers with consumers in 2015.
 
    I am currently a full-time student at <a href="https://www.microverse.org/"><strong>Microverse</strong></a>, going through the JS course at the moment. I expect to graduate by October-November 2021.
 
 - 🔭 You can find more of my completed projects on my [repo page](https://github.com/StarSheriff2?tab=repositories).
-- 🌱 I am fluent in HTML, CSS, Ruby, and Ruby on Rails, and I'm currently learning advanced Javascript.
+- 🌱 I am fluent in HTML, CSS, Ruby, and Ruby on Rails, and I am currently learning advanced Javascript.
 - ⚡ Fun fact: I can dance Salsa
 
 I’m open to new opportunities.
-
 <br>
 
 [![Arturo's github stats](https://github-readme-stats.vercel.app/api?username=StarSheriff2&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
