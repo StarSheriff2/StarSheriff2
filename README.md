@@ -13,7 +13,7 @@
    I am currently a full-time student at <a href="https://www.microverse.org/"><strong>Microverse</strong></a>, going through the JS course at the moment. I expect to graduate by October-November 2021.
 
 - 🔭 You can find more of my completed projects on my [repo page](https://github.com/StarSheriff2?tab=repositories).
-- 🌱 I am fluent in HTML, CSS, Ruby, and Ruby on Rails, and I am currently learning advanced Javascript.
+- 🌱 I am fluent in HTML, CSS, Ruby, and Ruby on Rails, and I am currently learning advanced JavaScript.
 - ⚡ Fun fact: I can dance Salsa
 
 I’m open to new opportunities.
