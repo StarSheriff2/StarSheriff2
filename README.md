@@ -8,7 +8,7 @@
 
  I am Arturo, and I love coding! I am currently on my way to becoming a ***full-stack web developer ninja***! I also hold a degree in Business Management and a degree in Leadership and New Ventures from <strong><a href="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>.
 
-  I enjoy using my creativity to solve problems and am passionate about entrepreneurship. I started an online eCommerce startup to connect local small-holder coffee producers with consumers in 2015.
+  I enjoy using my creativity to solve problems and am passionate about entrepreneurship. I started an online eCommerce startup to connect local small-holder coffee producers with consumers in 2015. This venture allowed me to see how a business works from both a technology and a business standpoint.
 
    I am currently a full-time student at <a href="https://www.microverse.org/"><strong>Microverse</strong></a>, going through the JS course at the moment. I expect to graduate by October-November 2021.
 
