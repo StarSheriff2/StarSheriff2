@@ -6,14 +6,14 @@
 
 ### <div><p align="center"><a href="https://starsheriff2.github.io/Portfolio/">Check my Portfolio page</a></p></div>
 
- I am Arturo, and I love coding! I am currently on my way to becoming a ***full-stack web developer ninja***! I also hold a degree in Business Management and a degree in Leadership and New Ventures from <strong><a href="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>.
+ I am Arturo, and I love coding! I am a ***full-stack web developer ninja*** looking for exciting opportunities as a full-stack Ruby on Rails developer! I also hold a degree in Business Management and a degree in Leadership and New Ventures from <strong><a href="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>.
 
   I enjoy using my creativity to solve problems and am passionate about entrepreneurship. I started an online eCommerce startup to connect local small-holder coffee producers with consumers in 2015. This venture allowed me to see how a business works from both a technology and a business standpoint.
 
-   I am currently a full-time student at <a href="https://www.microverse.org/"><strong>Microverse</strong></a>, going through the JS course at the moment. I expect to graduate by October-November 2021.
+   I recently finished the full-time full-stack software development program at <a href="https://www.microverse.org/"><strong>Microverse</strong></a>.
 
 - 🔭 You can find more of my completed projects on my [repo page](https://github.com/StarSheriff2?tab=repositories).
-- 🌱 I am fluent in HTML, CSS, Ruby, and Ruby on Rails, and I am currently learning advanced JavaScript.
+- 🌱 I am fluent in HTML, CSS, Ruby,Ruby on Rails, ReactJS and Redux.
 - ⚡ Fun fact: I can dance Salsa
 
 I’m open to new opportunities.
