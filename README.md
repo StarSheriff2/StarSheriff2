@@ -13,7 +13,7 @@
    I recently finished the full-time full-stack software development program at <a href="https://www.microverse.org/"><strong>Microverse</strong></a>.
 
 - 🔭 You can find more of my completed projects on my [repo page](https://github.com/StarSheriff2?tab=repositories).
-- 🌱 I am fluent in HTML, CSS, Ruby, Ruby on Rails, ReactJS and Redux.
+- 🌱 I am fluent in HTML, CSS, JavaScript, Ruby, Ruby on Rails, ReactJS, Redux, PostgreSQL, RESTful APIs, Bootstrap, SCSS, Styled Components, Rspec, Jest, SQL, Github workflow, VS Code, TTD, OOP, Frontend Design, Accessibility, Debugging.
 - ⚡ Fun fact: I can dance Salsa
 
 I’m open to new opportunities.
