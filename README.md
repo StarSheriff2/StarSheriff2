@@ -10,14 +10,17 @@
 
   I enjoy using my creativity to solve problems and am passionate about entrepreneurship. I started an online eCommerce startup to connect local small-holder coffee producers with consumers in 2015. This venture allowed me to see how a business works from both a technology and a business standpoint.
 
-   I recently finished the full-time full-stack software development program at <a href="https://www.microverse.org/"><strong>Microverse</strong></a>.
+   I am currently working as a full-stack web developer.
 
 - 🔭 You can find more of my completed projects on my [repo page](https://github.com/StarSheriff2?tab=repositories).
 - 🌱 I am fluent in HTML, CSS, JavaScript, Ruby, Ruby on Rails, ReactJS, Redux, PostgreSQL, RESTful APIs, Bootstrap, SCSS, Styled Components, Rspec, Jest, SQL, Github workflow, VS Code, TTD, OOP, Frontend Design, Accessibility, Debugging.
 - ⚡ Fun fact: I can dance Salsa
 
-I’m open to new opportunities.
 <br>
+
+## Stats
+
+[![committers.top badge](https://user-badge.committers.top/honduras_public/StarSheriff2.svg)](https://committers.top/honduras_public#StarSheriff2)
 
 [![Arturo's github stats](https://github-readme-stats.vercel.app/api?username=StarSheriff2&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarSheriff2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
