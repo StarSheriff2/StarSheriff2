@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome to my GitHub page</h1>
 
-### <div><p align="center"><a href="https://starsheriff.me">Check my Portfolio page</a></p></div>
+### <div><p align="center"><a href="https://starsheriff2.github.io/Portfolio/">Check my Portfolio page</a></p></div>
 
 I am Arturo, and I love coding! I am a ***full-stack web development ninja*** looking for exciting opportunities as a full-stack web developer! I hold a degree in Software Engineering from Microverse.org. I also hold degrees in Business Management and in Leadership and New Ventures from <strong><a href="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>.
 
