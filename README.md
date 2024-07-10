@@ -13,7 +13,8 @@ I am Arturo, and I love coding! I am a ***full-stack web development ninja*** lo
    I am exploring new challenges in an excellent company committed to top-quality products!
 
 - 🔭 You can find more of my completed projects on my [repo page](https://github.com/StarSheriff2?tab=repositories).
-- 🌱 Technical Skills: Ruby, Ruby on Rails, ReactJS, Redux, Docker, Bash, Linux, PostgreSQL, HTML, CSS, JavaScript, TypeScript, RESTful APIs, Bootstrap, SCSS, Styled Components, Rspec, Jest, SQL, GitHub workflow, VS Code, TTD, OOP, Frontend Design, Accessibility, Debugging, BDD, Agile Methodologies.
+- 🌱 Technical Skills: Ruby, Ruby on Rails, ReactJS, Redux, Docker, Bash, Linux, PostgreSQL, HTML, CSS, JavaScript, TypeScript, RESTful APIs, Bootstrap, SCSS, Styled Components, React Query, Next.js, Nest.js, Rspec, Redis, Sidekiq, CI-CD, Jest, SQL, GitHub workflow, VS Code, TTD, OOP, Frontend Design, Accessibility, Debugging, BDD, Agile Methodologies.
+- Learning: Java
 - ⚡ Fun fact: I can dance Salsa
 
 <br>
