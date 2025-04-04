@@ -8,7 +8,7 @@
 
 I am Arturo, and I love coding! I am a ***full-stack web development ninja*** :ninja:! I hold a degree in Software Engineering from Microverse.org. I also hold degrees in Business Management and one in Leadership and New Ventures from <strong><a href="https://bootcamps.mit.edu/">MIT Bootcamps</a></strong>.
 
-  I'm a full-stack software developer specializing in Ruby on Rails, PostgreSQL, React and NestJS, with experience in industries such as ERPs (Enterprise Resource Planning), talent aqcquisition, e-commerce andtourism.
+  I'm a full-stack software developer specializing in Ruby on Rails, PostgreSQL, React and NestJS, with experience in industries such as ERPs (Enterprise Resource Planning), talent aqcquisition, e-commerce, and tourism.
   
   I enjoy using my creativity to solve problems and am passionate about entrepreneurship. I started an online eCommerce startup to connect local small-holder coffee producers with consumers in 2015. This venture allowed me to see how a business works from a technology and a business standpoint.
 
